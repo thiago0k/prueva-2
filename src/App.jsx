@@ -222,7 +222,7 @@ function Tecnologias() {
   )
 }
 
-function SobreMi( {cambiar} ) {
+function SobreMi( { cambiar } ) {
   return(
     <>
 <div className="m-auto flex flex-col lg:flex-row w-[95%] items-center lg:items-start">
